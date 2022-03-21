@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TinyPNG Buffer calls the right API endpoints with basic config 1`] = `
+Object {
+  "data": Object {
+    "data": Array [
+      98,
+      117,
+      102,
+      102,
+      101,
+      114,
+    ],
+    "type": "Buffer",
+  },
+  "size": 207565,
+  "type": "image/jpeg",
+}
+`;
+
+exports[`TinyPNG Buffer calls the right API endpoints with resizing config 1`] = `
+Object {
+  "data": Object {
+    "data": Array [
+      98,
+      117,
+      102,
+      102,
+      101,
+      114,
+    ],
+    "type": "Buffer",
+  },
+  "size": 207565,
+  "type": "image/jpeg",
+}
+`;
+
+exports[`TinyPNG Buffer calls the right API endpoints without config 1`] = `
+Object {
+  "data": Object {
+    "data": Array [
+      98,
+      117,
+      102,
+      102,
+      101,
+      114,
+    ],
+    "type": "Buffer",
+  },
+  "size": 207565,
+  "type": "image/jpeg",
+}
+`;
+
+exports[`TinyPNG URL calls the right API endpoints with basic config 1`] = `
+Object {
+  "data": Object {
+    "data": Array [
+      98,
+      117,
+      102,
+      102,
+      101,
+      114,
+    ],
+    "type": "Buffer",
+  },
+  "size": 207565,
+  "type": "image/jpeg",
+}
+`;
+
+exports[`TinyPNG URL calls the right API endpoints with resizing config 1`] = `
+Object {
+  "data": Object {
+    "data": Array [
+      98,
+      117,
+      102,
+      102,
+      101,
+      114,
+    ],
+    "type": "Buffer",
+  },
+  "size": 207565,
+  "type": "image/jpeg",
+}
+`;
+
+exports[`TinyPNG URL calls the right API endpoints without config 1`] = `
+Object {
+  "data": Object {
+    "data": Array [
+      98,
+      117,
+      102,
+      102,
+      101,
+      114,
+    ],
+    "type": "Buffer",
+  },
+  "size": 207565,
+  "type": "image/jpeg",
+}
+`;
